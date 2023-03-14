@@ -10,11 +10,19 @@ left_col.title('Sample App')
 
 right_col.title('Hello')
 
+
+
+
 st.sidebar.title('sidebar')
 
+
+
+
 # 文章を書く
-st.write('Sample App')
+st.write('あいうえお')
 "Hellow World"
+
+
 
 # markdown
 st.markdown('# 見出し1')
